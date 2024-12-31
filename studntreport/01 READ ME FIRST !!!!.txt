@@ -1,0 +1,9 @@
+Student Record Management System in PHP
+
+**LOGIN DETAILS*
+
+Username : admin
+
+Password : admin
+
+DATABASE NAME : "model" 
